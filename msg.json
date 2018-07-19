@@ -2,11 +2,11 @@
   {
     "id": 145,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts2.jpeg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.643341,
-    "lng": 120.448759
+    "lat": 16.643372, 
+    "lng": 120.448705
   },
   {
     "id": 148,
