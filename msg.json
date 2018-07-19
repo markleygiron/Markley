@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Thunderbird Resorts Poro Point",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
-    "price": 0,
+    "price": 100,
     "priceCurrency": "PHP",
     "lat": 16.8308,
     "lng": 120.3551
@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.461241, 
-    "lng": 120.334108
+    "lat": 16.847255,
+    "lng": 120.351556
   },
   {
     "id": 210,
