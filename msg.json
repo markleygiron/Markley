@@ -8,50 +8,5 @@
     "lat": 16.643341,
     "lng": 120.448759
   },
-  {
-    "id": 148,
-    "name": "San Juan Surf Resort",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg2.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.6571, 
-    "lng": 120.3202
-  },
-  {
-    "id": 201,
-    "name": "Thunderbird Resorts Poro Point",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.612157
-    "lng": 120.284765
-  },
-  {
-    "id": 205,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.847255,
-    "lng": 120.351556
-  },
-  {
-    "id": 210,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.621185,
-    "lng": 120.317510
-  },
-  {
-    "id": 211,
-    "name": "Home",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.857375,
-    "lng": 120.380578
-  }
-  
+
 ]
