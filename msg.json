@@ -13,8 +13,8 @@
     "id": 148,
     "name": "San Juan Surf Resort",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg2.jpg",
+    "priceCurrency": "₱",
     "price": 0,
-    "priceCurrency": "PHP",
     "lat": 16.6571, 
     "lng": 120.3202
   },
@@ -22,8 +22,8 @@
     "id": 201,
     "name": "Thunderbird Resorts Poro Point",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
+    "priceCurrency": "₱",
     "price": 100,
-    "priceCurrency": "PHP",
     "lat": 16.609093,
     "lng": 120.286326
   },
