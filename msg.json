@@ -1,57 +1,57 @@
 [
   {
     "id": 145,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts1.JPG",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.846952,
-    "lng": 120.351677
-  },
-  {
-    "id": 148,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts2.jpeg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg1.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.643372, 
     "lng": 120.448705
   },
   {
-    "id": 201,
-    "name": "Baluarte",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts3.jpg",
+    "id": 148,
+    "name": "San Juan Surf Resort",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg2.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.8308,
-    "lng": 120.3551
+    "lat": 16.6571, 
+    "lng": 120.3202
+  },
+  {
+    "id": 201,
+    "name": "Thunderbird Resorts Poro Point",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.612157
+    "lng": 120.284765
   },
   {
     "id": 205,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts4.jpg",
+    "name": "Bahay Na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.461241, 
-    "lng": 120.334108
+    "lat": 16.847255,
+    "lng": 120.351556
   },
   {
     "id": 210,
-    "name": "Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts5.jpg",
+    "name": "Ma-Cho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.614827,
-    "lng": 120.280465
+    "lat": 16.621185,
+    "lng": 120.317510
   },
   {
     "id": 211,
     "name": "Home",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.857375,
     "lng": 120.380578
   }
-  
+
 ]
