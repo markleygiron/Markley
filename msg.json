@@ -32,7 +32,7 @@
     "name": "Bahay Na Bato",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.847255,
     "lng": 120.351556
   },
@@ -41,7 +41,7 @@
     "name": "Ma-Cho Temple",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.621185,
     "lng": 120.317510
   },
@@ -49,8 +49,6 @@
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.png",
-    "price": 0,
-    "priceCurrency": "PHP",
     "lat": 16.613524,
     "lng": 120.331632
   }
