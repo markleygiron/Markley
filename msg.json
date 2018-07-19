@@ -10,7 +10,7 @@
   },
   {
     "id": 148,
-    "name": "Tangadan Falls",
+    "name": "San Juan Surf Resort",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg2.jpg",
     "price": 0,
     "priceCurrency": "PHP",
@@ -19,7 +19,7 @@
   },
   {
     "id": 201,
-    "name": "Baluarte",
+    "name": "Thunder Bird",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
     "price": 0,
     "priceCurrency": "PHP",
@@ -28,7 +28,7 @@
   },
   {
     "id": 205,
-    "name": "Grapes Farm",
+    "name": "Bahay Na Bato",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
     "price": 0,
     "priceCurrency": "PHP",
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.614827,
