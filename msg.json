@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg/msg1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg1.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.643372, 
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg/msg1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg2.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.643372, 
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Baluarte",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg/msg1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.8308,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg/msg1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.461241, 
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg/msg1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.614827,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Home",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg/msg1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.jpg",
     "price": 0,
     "priceCurrency": "PHP",
     "lat": 16.857375,
