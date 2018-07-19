@@ -23,7 +23,7 @@
     "name": "Thunderbird Resorts Poro Point",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
     "priceCurrency": "₱",
-    "price": 100,
+    "price": 100.00,
     "lat": 16.609093,
     "lng": 120.286326
   },
@@ -31,7 +31,7 @@
     "id": 205,
     "name": "Bahay Na Bato",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
-    "price": 0,
+    "price": 20.00,
     "priceCurrency": "₱",
     "lat": 16.847255,
     "lng": 120.351556
