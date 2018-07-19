@@ -5,8 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg1.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.643372, 
-    "lng": 120.448705
+    "lat": 16.643341,
+    "lng": 120.448759
   },
   {
     "id": 148,
@@ -14,8 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg2.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.643372, 
-    "lng": 120.448705
+    "lat": 16.6571, 
+    "lng": 120.3202
   },
   {
     "id": 201,
@@ -23,8 +23,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.8308,
-    "lng": 120.3551
+    "lat": 16.612157
+    "lng": 120.284765
   },
   {
     "id": 205,
@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.461241, 
-    "lng": 120.334108
+    "lat": 16.847255,
+    "lng": 120.351556
   },
   {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.614827,
-    "lng": 120.280465
+    "lat": 16.621185,
+    "lng": 120.317510
   },
   {
     "id": 211,
