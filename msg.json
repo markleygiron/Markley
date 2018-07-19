@@ -49,6 +49,8 @@
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.png",
+    "price": 0,
+    "priceCurrency": "₱",
     "lat": 16.613524,
     "lng": 120.331632
   }
