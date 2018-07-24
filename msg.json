@@ -36,6 +36,24 @@
     "lng": 120.372861
   },
   {
+    "id": 205,
+    "name": "Bahay Na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/bb.jpg",
+    "price": 20.00,
+    "priceCurrency": "₱",
+    "lat": 16.847255,
+    "lng": 120.351556
+  },
+  {
+    "id": 210,
+    "name": "Ma-Cho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/mt.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.621185,
+    "lng": 120.317510
+  },
+  {
     "id": 212,
     "name": "Old Lighthouse",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/f.jpg",
@@ -61,24 +79,6 @@
     "priceCurrency": "₱",
     "lat": 16.461066,
     "lng": 120.333904
-  },
-  {
-    "id": 205,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/bb.jpg",
-    "price": 20.00,
-    "priceCurrency": "₱",
-    "lat": 16.847255,
-    "lng": 120.351556
-  },
-  {
-    "id": 210,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/mt.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.621185,
-    "lng": 120.317510
   },
   {
     "id": 145,
