@@ -56,7 +56,7 @@
   {
     "id": 215,
     "name": "Gapuz Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/b.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/gf.JPG",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.461066,
@@ -65,7 +65,7 @@
   {
     "id": 205,
     "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/bb.jpg",
     "price": 20.00,
     "priceCurrency": "₱",
     "lat": 16.847255,
@@ -74,7 +74,7 @@
   {
     "id": 210,
     "name": "Ma-Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/mt.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.621185,
@@ -83,7 +83,7 @@
   {
     "id": 145,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/a.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/tf.jpg",
     "priceCurrency": "₱",
     "price": 20,
     "lat": 16.643372,
