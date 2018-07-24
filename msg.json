@@ -64,6 +64,24 @@
   },
   {
     "id": 213,
+    "name": "Pugo Adventure",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/e.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.321309,
+    "lng": 120.476085
+  },
+  {
+    "id": 214,
+    "name": "Halo-Halo de Iloko",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/c.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.617243,
+    "lng": 120.319803
+  },
+  {
+    "id": 215,
     "name": "Gapuz Grapes Farm",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/b.jpg",
     "price": 0,
@@ -72,14 +90,14 @@
     "lng": 120.333904
   },
   {
-    "id": 214,
+    "id": 216,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.png",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.613524,
     "lng": 120.331632
-  }
+  },
   
   
   
