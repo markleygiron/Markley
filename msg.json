@@ -46,12 +46,21 @@
   },
   {
     "id": 211,
-    "name": "Home",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.png",
+    "name": "Baluarte Watch Tower",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/d.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.613524,
-    "lng": 120.331632
+    "lat": 16.856767,
+    "lng": 120.372861
+  },
+  {
+    "id": 212,
+    "name": "Old Lighthouse",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/f.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.614796,
+    "lng": 120.280463
   },
   {
     "id": 213,
@@ -61,6 +70,15 @@
     "priceCurrency": "₱",
     "lat": 16.461066,
     "lng": 120.333904
+  },
+  {
+    "id": 214,
+    "name": "Home",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.png",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.613524,
+    "lng": 120.331632
   }
   
   
