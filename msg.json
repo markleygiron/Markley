@@ -53,15 +53,7 @@
     "lat": 16.613524,
     "lng": 120.331632
   }
-  {
-    "id": 213,
-    "name": "Gapuz Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/b.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.461066,
-    "lng": 120.333904
-  }
+  
   
   
 ]
