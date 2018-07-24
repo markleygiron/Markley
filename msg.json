@@ -1,21 +1,12 @@
 [
   {
-    "id": 145,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/a.jpg",
+    "id": 213,
+    "name": "Pugo Adventure",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/e.jpg",
+    "price": 200,
     "priceCurrency": "₱",
-    "price": 20,
-    "lat": 16.643372,
-    "lng": 120.448705
-  },
-  {
-    "id": 148,
-    "name": "San Juan Surf Resort",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg21.jpg",
-    "priceCurrency": "₱",
-    "price": 0,
-    "lat": 16.6571, 
-    "lng": 120.3202
+    "lat": 16.321309,
+    "lng": 120.476085
   },
   {
     "id": 201,
@@ -27,22 +18,13 @@
     "lng": 120.286326
   },
   {
-    "id": 205,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
-    "price": 20.00,
+    "id": 148,
+    "name": "San Juan Surf Resort",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg11.jpg",
     "priceCurrency": "₱",
-    "lat": 16.847255,
-    "lng": 120.351556
-  },
-  {
-    "id": 210,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
     "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.621185,
-    "lng": 120.317510
+    "lat": 16.6571, 
+    "lng": 120.3202
   },
   {
     "id": 211,
@@ -63,15 +45,6 @@
     "lng": 120.280463
   },
   {
-    "id": 213,
-    "name": "Pugo Adventure",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/e.jpg",
-    "price": 200,
-    "priceCurrency": "₱",
-    "lat": 16.321309,
-    "lng": 120.476085
-  },
-  {
     "id": 214,
     "name": "Halo-Halo de Iloko",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/c.jpg",
@@ -88,6 +61,33 @@
     "priceCurrency": "₱",
     "lat": 16.461066,
     "lng": 120.333904
+  },
+  {
+    "id": 205,
+    "name": "Bahay Na Bato",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg4.jpg",
+    "price": 20.00,
+    "priceCurrency": "₱",
+    "lat": 16.847255,
+    "lng": 120.351556
+  },
+  {
+    "id": 210,
+    "name": "Ma-Cho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg5.JPG",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.621185,
+    "lng": 120.317510
+  },
+  {
+    "id": 145,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/a.jpg",
+    "priceCurrency": "₱",
+    "price": 20,
+    "lat": 16.643372,
+    "lng": 120.448705
   },
   {
     "id": 216,
