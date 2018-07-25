@@ -106,6 +106,15 @@
     "price": 20,
     "lat": 13.254829,
     "lng": 123.686112
+  },
+  {
+    "id": 218,
+    "name": "My Home",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/10.png",
+    "priceCurrency": "km",
+    "price": 20,
+    "lat": 16.609722,
+    "lng": 120.334863
   }
   
   
