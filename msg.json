@@ -1,8 +1,8 @@
 [
   {
     "id": 213,
-    "name": "Pugo Adventure",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/e.jpg",
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/11.jpg",
     "price": 200,
     "priceCurrency": "₱",
     "lat": 16.321309,
@@ -10,8 +10,8 @@
   },
   {
     "id": 201,
-    "name": "Thunderbird Resorts Poro Point",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg3.jpg",
+    "name": "Boracay Island, Aklan",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/12.jpg",
     "priceCurrency": "₱",
     "price": 100.00,
     "lat": 16.609093,
@@ -19,8 +19,8 @@
   },
   {
     "id": 148,
-    "name": "San Juan Surf Resort",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg11.jpg",
+    "name": "Batanes Islands, Batanes",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/13.jpg",
     "priceCurrency": "₱",
     "price": 0,
     "lat": 16.6571, 
@@ -28,8 +28,8 @@
   },
   {
     "id": 211,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/d.jpg",
+    "name": "Camiguin Island, Camiguin",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/14.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.856767,
@@ -37,8 +37,8 @@
   },
   {
     "id": 205,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/bb.jpg",
+    "name": "Malapascua Island, Cebu",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/15.jpg",
     "price": 20.00,
     "priceCurrency": "₱",
     "lat": 16.847255,
@@ -46,8 +46,8 @@
   },
   {
     "id": 210,
-    "name": "Ma-Cho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/mt.jpg",
+    "name": "Kalanggaman Island, Leyte",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/16.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.621185,
@@ -55,8 +55,8 @@
   },
   {
     "id": 212,
-    "name": "Old Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/f.jpg",
+    "name": "Siargao Island, Surigao del Norte",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/17.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.614796,
@@ -64,8 +64,8 @@
   },
   {
     "id": 214,
-    "name": "Halo-Halo de Iloko",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/c.jpg",
+    "name": "Puerto Princesa, Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/28.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.617243,
@@ -73,8 +73,8 @@
   },
   {
     "id": 215,
-    "name": "Gapuz Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/gf.JPG",
+    "name": "Banaue Rice Terraces, Ifugao",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/29.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.461066,
@@ -82,21 +82,12 @@
   },
   {
     "id": 145,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/tf.jpg",
+    "name": "Tubbataha Reefs, Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/30.jpg",
     "priceCurrency": "₱",
     "price": 20,
     "lat": 16.643372,
     "lng": 120.448705
-  },
-  {
-    "id": 216,
-    "name": "Home",
-    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.png",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.613524,
-    "lng": 120.331632
   }
   
   
