@@ -3,7 +3,7 @@
     "id": 213,
     "name": "El Nido, Palawan",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/11.jpg",
-    "price": 200,
+    "price": 888,
     "priceCurrency": "km",
     "lat": 11.178463,
     "lng": 119.391461
@@ -13,7 +13,7 @@
     "name": "Boracay Island, Aklan",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/12.jpg",
     "priceCurrency": "km",
-    "price": 100.00,
+    "price": 714,
     "lat": 11.967360,
     "lng": 121.924836
   },
@@ -21,14 +21,14 @@
     "id": 211,
     "name": "Camiguin Island, Camiguin",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/14.jpg",
-    "price": 0,
+    "price": 1349,
     "priceCurrency": "km",
     "lat": 9.172815,
     "lng": 124.729884
   },
   {
     "id": 205,
-    "name": "Malapascua Island, Cebu",
+    "name": "Change",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/15.jpg",
     "price": 20.00,
     "priceCurrency": "km",
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Kalanggaman Island, Leyte",
+    "name": "Change",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/16.jpg",
     "price": 0,
     "priceCurrency": "km",
@@ -46,7 +46,7 @@
   },
   {
     "id": 212,
-    "name": "Siargao Island, Surigao del Norte",
+    "name": "Change",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/17.jpg",
     "price": 0,
     "priceCurrency": "km",
@@ -57,7 +57,7 @@
     "id": 214,
     "name": "Puerto Princesa, Palawan",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/28.jpg",
-    "price": 0,
+    "price": 1039,
     "priceCurrency": "km",
     "lat": 9.769649,
     "lng": 118.748853
@@ -66,14 +66,14 @@
     "id": 215,
     "name": "Banaue Rice Terraces, Ifugao",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/29.jpg",
-    "price": 0,
+    "price": 240,
     "priceCurrency": "km",
     "lat": 16.923944,
     "lng": 121.055661
   },
   {
     "id": 145,
-    "name": "Tubbataha Reefs, Palawan",
+    "name": "Change",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/30.jpg",
     "priceCurrency": "km",
     "price": 20,
@@ -85,7 +85,7 @@
     "name": "Coron, Palawan",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/111.jpg",
     "priceCurrency": "km",
-    "price": 0,
+    "price": 715,
     "lat": 12.000977,
     "lng": 120.197755
   },
@@ -94,7 +94,7 @@
     "name": "Hinatuan Enchanted River, Surigao Del Sur",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/222.jpg",
     "priceCurrency": "km",
-    "price": 20,
+    "price": 1618,
     "lat": 8.458094,
     "lng": 126.354647
   },
@@ -103,7 +103,7 @@
     "name": "Mayon Volcano, Albay",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/333.jpg",
     "priceCurrency": "km",
-    "price": 20,
+    "price": 763,
     "lat": 13.254829,
     "lng": 123.686112
   },
@@ -112,7 +112,7 @@
     "name": "My Home",
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/msg6.png",
     "priceCurrency": "km",
-    "price": 20,
+    "price": 0,
     "lat": 16.609722,
     "lng": 120.334863
   }
