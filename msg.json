@@ -5,8 +5,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/11.jpg",
     "price": 200,
     "priceCurrency": "₱",
-    "lat": 16.321309,
-    "lng": 120.476085
+    "lat": 11.178463,
+    "lng": 119.391461
   },
   {
     "id": 201,
@@ -14,8 +14,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/12.jpg",
     "priceCurrency": "₱",
     "price": 100.00,
-    "lat": 16.609093,
-    "lng": 120.286326
+    "lat": 11.967360,
+    "lng": 121.924836
   },
   {
     "id": 148,
@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/14.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.856767,
-    "lng": 120.372861
+    "lat": 9.172815,
+    "lng": 124.729884
   },
   {
     "id": 205,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/15.jpg",
     "price": 20.00,
     "priceCurrency": "₱",
-    "lat": 16.847255,
-    "lng": 120.351556
+    "lat": 11.335828,
+    "lng": 124.115640
   },
   {
     "id": 210,
@@ -50,8 +50,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/16.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.621185,
-    "lng": 120.317510
+    "lat": 11.114396,
+    "lng": 124.249453
   },
   {
     "id": 212,
@@ -59,8 +59,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/17.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.614796,
-    "lng": 120.280463
+    "lat": 9.848129,
+    "lng": 126.045785
   },
   {
     "id": 214,
@@ -68,8 +68,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/28.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.617243,
-    "lng": 120.319803
+    "lat": 9.769649,
+    "lng": 118.748853
   },
   {
     "id": 215,
@@ -77,8 +77,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/29.jpg",
     "price": 0,
     "priceCurrency": "₱",
-    "lat": 16.461066,
-    "lng": 120.333904
+    "lat": 16.923944,
+    "lng": 121.055661
   },
   {
     "id": 145,
@@ -86,8 +86,8 @@
     "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/30.jpg",
     "priceCurrency": "₱",
     "price": 20,
-    "lat": 16.643372,
-    "lng": 120.448705
+    "lat": 8.849957,
+    "lng": 119.933333
   }
   
   
