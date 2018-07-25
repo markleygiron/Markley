@@ -79,6 +79,33 @@
     "price": 20,
     "lat": 8.849957,
     "lng": 119.933333
+  },
+  {
+    "id": 148,
+    "name": "Coron, Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/111.jpg",
+    "priceCurrency": "?",
+    "price": 0,
+    "lat": 12.000977,
+    "lng": 120.197755
+  },
+  {
+    "id": 216,
+    "name": "Hinatuan Enchanted River, Surigao Del Sur",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/222.jpg",
+    "priceCurrency": "?",
+    "price": 20,
+    "lat": 8.458094,
+    "lng": 126.354647
+  },
+  {
+    "id": 217,
+    "name": "Mayon Volcano, Albay",
+    "imageUrl": "https://raw.githubusercontent.com/markleygiron/Markley/master/333.jpg",
+    "priceCurrency": "?",
+    "price": 20,
+    "lat": 13.254829,
+    "lng": 123.686112
   }
   
   
